@@ -22,4 +22,4 @@ option.autoread=true
 option.title=true
 option.swapfile=false
 option.swapfile=false
-option.spr=false
+option.spr=true
